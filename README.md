@@ -4,6 +4,7 @@
 Este repositório contém um projeto desenvolvido para estudar e aprimorar o uso do FlexBox no CSS.
 
 • 𝗣𝗥𝗢𝗝𝗘𝗧𝗢: Lista simples com contatos organizados em uma coluna única. 📃 
+
 • LINK: https://marcossilva-tech.github.io/projeto-flexbox1/
 
 
